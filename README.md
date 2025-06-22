@@ -34,11 +34,10 @@ The Quiz Game is a beginner-friendly project that demonstrates the use of basic 
 
 - **HTML** – for structuring the content
 - **CSS** – for designing a responsive and visually appealing UI
-- **JavaScript ** – for logic implementation and DOM interaction
+- **JavaScript** – for logic implementation and DOM interaction
 
 ---
 
 ## 🚀 Getting Started
-
-quiz-game-alpha-hazel.vercel.app
+https://quiz-game-alpha-hazel.vercel.app/)quiz-game-alpha-hazel.vercel.app
 
