@@ -39,5 +39,5 @@ The Quiz Game is a beginner-friendly project that demonstrates the use of basic 
 ---
 
 ## 🚀 Getting Started
-https://quiz-game-alpha-hazel.vercel.app/)quiz-game-alpha-hazel.vercel.app
+https://quiz-game-alpha-hazel.vercel.app
 
